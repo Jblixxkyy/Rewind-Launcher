@@ -36,10 +36,32 @@
       "tagline": "Port-a-Fort. Replay system. 50v50 v2. Dusty Depot still standing.",
       "title": "Fortnite — Chapter 1 Season 3",
       "version": "3.5.0"
+    },
+    {
+      "id": "dayz",
+      "title": "DayZ",
+      "kind": "generic",
+      "shortTitle": "DayZ",
+      "tagline": "",
+      "description": "",
+      "banner": "assets/download.webp",
+      "downloadUrl": "https://tenant-exercise-likes-wise.trycloudflare.com/DayZ.rar",
+      "launch": {
+        "type": "bat",
+        "file": "!Start_Dayz",
+        "args": ""
+      },
+      "status": "available",
+      "playable": true,
+      "username": {
+        "enabled": true,
+        "arg": "-name=",
+        "default": "Player",
+        "label": "In-game name"
+      },
+      "features": [],
+      "accent": "#5ec8f2"
     }
   ],
-  "version": 1,
-  "removed": [
-    "dayz"
-  ]
+  "version": 1
 }

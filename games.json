@@ -1,0 +1,42 @@
+{
+  "games": [
+    {
+      "accent": "#7cf29c",
+      "backend": "Neonite V2 (port 3551)",
+      "backendPort": 3551,
+      "banner": "assets/s3-banner.webp",
+      "description": "The frozen Season 3 build (v3.5.0, 11 Apr 2018) — late Chapter 1, before the Divot arrived in Season 4. Lucky Landing, the meteor in the sky, the first real Battle Pass era. Runs against the Neonite V2 private backend with a Rewind gameserver, so matches are hosted from this PC — no Epic servers involved. Matches are Solos; in-game, click \"Start Bus\" in Rewind's overlay to send the battle bus.",
+      "downloadSize": 8225888105,
+      "downloadUrl": "https://ia601001.us.archive.org/10/items/fortnite_3.5-CL-4000805/3.5.zip",
+      "features": [
+        "Port-a-Fort",
+        "Replay system",
+        "50v50 v2",
+        "Meteor in the sky",
+        "Dusty Depot intact"
+      ],
+      "gameserver": "Rewind (port 7777)",
+      "gameserverDll": {
+        "sha256": "16d82cd3ed38c8d17b7c1ecb5a7c100108e31af0068f8319432b707985397671",
+        "size": 902656,
+        "url": "https://github.com/Jblixxkyy/raider3.5/releases/download/raider-3.5-build6/Rewind.dll"
+      },
+      "gameserverPort": 7777,
+      "id": "fortnite-s3",
+      "kind": "fortnite-s3",
+      "playable": true,
+      "redirectDll": {
+        "sha256": "fb69e9ee715f5cbbdadd0e8e3cb07ee37b9dc1ac41f8ea04ebee66e4f7026f72",
+        "url": "https://raw.githubusercontent.com/Auties00/Reboot-Launcher/master/gui/dependencies/dlls/sinum.dll"
+      },
+      "released": "11 Apr 2018",
+      "shortTitle": "Fortnite S3",
+      "size": "~20 GB",
+      "status": "available",
+      "tagline": "Port-a-Fort. Replay system. 50v50 v2. Dusty Depot still standing.",
+      "title": "Fortnite — Chapter 1 Season 3",
+      "version": "3.5.0"
+    }
+  ],
+  "version": 1
+}
